@@ -1,1 +1,3 @@
 # Symon-Says-Game
+
+This is a basic game called Symon Says Game . In this game there are four colored butten are present first we will have to press any key to start the game . When game will start automatic blink a random color (from 4 color) ,then we will have to press that blink color . If if press right colored button then we will jump on next level and again a randon color will blink , but this time we have to tap all previous blink color and current blink color in correct sequence . If we press right sequence then we will move to next level ohtherwise we will lose the game and by pressing any key we can play game again from begining.
